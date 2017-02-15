@@ -4,5 +4,10 @@
   width: 100%;
   background-color: lightblue;
   position: fixed;
-  bottom: 1px;
+  bottom: 0px;
+}
+body{
+	border: 0;
+	margin: 0;
+	padding: 0;
 }
