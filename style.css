@@ -1,0 +1,8 @@
+.bottom-line{
+  border: 1px solid red;
+  height: 25px;
+  width: 100%;
+  background-color: lightblue;
+  position: fixed;
+  bottom: 1px;
+}
